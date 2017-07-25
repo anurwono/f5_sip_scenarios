@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This is a placeholder from pbtera https://github.com/pbertera/SIPp-by-example intended for testing scenarios for use with F5 Networks MRF features.
+Please use or submit corrections the original example instead of this one.
 This document provides some step-by-step examples using SIPp in order to emulate different call scenarios.
 
 ## Requirements:
